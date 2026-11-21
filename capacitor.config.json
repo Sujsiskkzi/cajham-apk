@@ -1,0 +1,7 @@
+{
+  "appId": "com.cajham.gestor",
+  "appName": "Cajham",
+  "webDir": "www",
+  "backgroundColor": "#0B1F66",
+  "android": { "allowMixedContent": false }
+}

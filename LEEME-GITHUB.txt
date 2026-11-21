@@ -1,0 +1,7 @@
+APK CON GITHUB (sin Android Studio)
+1. Crea un repositorio NUEVO en GitHub (ej. cajham-apk).
+2. Sube TODO el contenido de esta carpeta (www, android, package.json, capacitor.config.json, .gitignore y la carpeta oculta .github).
+   Si .github no se sube al arrastrar: en GitHub  Add file > Create new file, escribe  .github/workflows/build-apk.yml  y pega el contenido del archivo.
+3. Pestaña "Actions": se ejecuta solo (o botón "Run workflow"). Tarda ~5-8 min.
+4. Entra a la ejecución terminada, baja a "Artifacts" y descarga  Cajham-APK  (es un zip con app-debug.apk).
+5. Pasa el APK al teléfono e instálalo.
